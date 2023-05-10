@@ -1,5 +1,5 @@
 SITE_A_APIC_1_IP,SITE_A_USERNAME,SITE_A_PASSWORD,SITE_B_APIC_1_IP,SITE_B_USERNAME,SITE_B_PASSWORD,POD_ID,NODE_ID,NODE_HOSTNAME,INTERFACEPROFILE_NAME,ACCESSPORT_SELECTOR_NAME,ACCESSPORT_SELECTOR_NAME_DESC,ACCESSPORT_POLICYGROUP_NAME,PORT,INTERFACE_DESC
-192.168.100.10,admin,Jennygbmwx5!,10.161.11.32,ajain372,Dummy,1,111,heqsl0123,heqsl0111_IntPro,heqsl0111_1-14_AccPortSel,Access Port Selector for heqsl0123 eth1/14,10Gb_Bpduguard-PolGro,14,HKLU2669017-0NIC1
-10.173.38.136,ajain372,Dummy,10.161.11.32,ajain372,Dummy,1,117,heqsl0117,heqsl0117_IntPro,heqsl0117_1-49_AccPortSel,Access Port Selector for heqsl0117 eth1/49,10Gb_Bpduguard-PolGro,49,HKLU2668998-0NIC1
-10.173.38.136,ajain372,Dummy,10.161.11.32,ajain372,Dummy,1,117,heqsl0117,heqsl0117_IntPro,heqsl0117_1-50_AccPortSel,Access Port Selector for heqsl0117 eth1/50,10Gb_Bpduguard-PolGro,50,HKLU2669000-0NIC1
-10.173.38.136,ajain372,Dummy,10.161.11.32,ajain372,Dummy,1,117,heqsl0117,heqsl0117_IntPro,heqsl0117_1-51_AccPortSel,Access Port Selector for heqsl0117 eth1/51,10Gb_Bpduguard-PolGro,51,HKLU2669002-0NIC1
+192.168.100.10,admin,Jennygbmwx5!,10.161.11.32,ajain372,Dummy,1,111,heqsl0123,heqsl0111_IntPro,heqsl0111_1-14_AccPortSel,Access Port Selector for heqsl0111 eth1/14,10Gb_Bpduguard-PolGro,14,HKLU2669017-0NIC1
+192.168.100.10,ajain372,Jennygbmwx5!,10.161.11.32,ajain372,Dummy,1,111,heqsl0117,heqsl0111_IntPro,heqsl0111_1-15_AccPortSel,Access Port Selector for heqsl0111 eth1/15,10Gb_Bpduguard-PolGro,15,HKLU2668998-0NIC1
+192.168.100.10,ajain372,Jennygbmwx5!,10.161.11.32,ajain372,Dummy,1,111,heqsl0117,heqsl0111_IntPro,heqsl0111_1-16_AccPortSel,Access Port Selector for heqsl0111 eth1/16,10Gb_Bpduguard-PolGro,16,HKLU2669000-0NIC1
+192.168.100.10,ajain372,Jennygbmwx5!,10.161.11.32,ajain372,Dummy,1,111,heqsl0117,heqsl0111_IntPro,heqsl0111_1-17_AccPortSel,Access Port Selector for heqsl0111 eth1/17,10Gb_Bpduguard-PolGro,17,HKLU2669002-0NIC1
